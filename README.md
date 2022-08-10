@@ -1,3 +1,3 @@
 # Power-BI
 Power BI dashboards
-just some dashboards from test tesks and pet projects
+just some dashboards from test tasks and pet projects
